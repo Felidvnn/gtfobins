@@ -12,7 +12,7 @@ python3 gtfobins.py list.txt -f sudo
 ```
 
 ## Example list
-![List](list.png)
+![List](List.png)
 
 ## All functions
 ![Example](Ex1.png)

@@ -17,10 +17,10 @@ python3 gtfobins.py list.txt -f sudo
 ```
 
 ## Example list
-![List](List.png)
+![List](Images/List.png)
 
 ## All functions
-![Example](Ex1.png)
+![Example](Images/Ex1.png)
 
 ## Specific function
-![Example2](Ex2.png)
+![Example2](Images/Ex2.png)

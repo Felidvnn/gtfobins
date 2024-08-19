@@ -26,5 +26,5 @@ python3 gtfobins.py list.txt -f sudo
 ## All functions
 ![Example](Images/Ex1.png)
 
-## Specific function
+## Specific function (Returns GTFObins links)
 ![Example2](Images/Ex2.png)

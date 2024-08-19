@@ -2,10 +2,20 @@
 Searches for binaries on GTFOBins from a text file containing binary paths.
 
 ## Use - All functions
+```
 python3 gtfobins.py list.txt
+```
 
 ## Use - Specific function (-f)
+```
 python3 gtfobins.py list.txt -f sudo
+```
 
-# Example
+## Example list
+![List](list.png)
 
+## All functions
+![Example](Ex1.png)
+
+## Specific function
+![Example2](Ex2.png)

@@ -4,24 +4,20 @@ Searches for binaries on GTFOBins from a text file containing binary paths, with
 #Install
 ```
 wget https://raw.githubusercontent.com/Felidvnn/gtfobins/main/gtfobins.py
-
 ```
 ## Use - Help
 ```
 python3 gtfobins.py -h
-
 ```
 
 ## Use - All functions
 ```
 python3 gtfobins.py list.txt
-
 ```
 
 ## Use - Specific function (-f)
 ```
 python3 gtfobins.py list.txt -f sudo
-
 ```
 
 ## Example list

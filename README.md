@@ -1,6 +1,11 @@
 # gtfobins
 Searches for binaries on GTFOBins from a text file containing binary paths.
 
+## Use - Help
+```
+python3 gtfobins.py -h
+```
+
 ## Use - All functions
 ```
 python3 gtfobins.py list.txt

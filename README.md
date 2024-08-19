@@ -1,7 +1,7 @@
 # gtfobins
 Searches for binaries on GTFOBins from a text file containing binary paths, with the option to filter results by specific functions like sudo, suid, etc.
 
-#Install
+# Install
 ```
 wget https://raw.githubusercontent.com/Felidvnn/gtfobins/main/gtfobins.py
 ```

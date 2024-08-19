@@ -1,5 +1,5 @@
 # gtfobins
-Searches for binaries on GTFOBins from a text file containing binary paths.
+Searches for binaries on GTFOBins from a text file containing binary paths, with the option to filter results by specific functions like sudo, suid, etc.
 
 ## Use - Help
 ```

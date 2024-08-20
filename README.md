@@ -5,17 +5,18 @@ Searches for binaries on GTFOBins from a text file containing binary paths, with
 ```
 wget https://raw.githubusercontent.com/Felidvnn/gtfobins/main/gtfobins.py
 ```
-## Use - Help
+## Use
+### Help
 ```
 python3 gtfobins.py -h
 ```
 
-## Use - All functions
+### All functions
 ```
 python3 gtfobins.py list.txt
 ```
 
-## Use - Specific function (-f)
+### Specific function (-f)
 ```
 python3 gtfobins.py list.txt -f sudo
 ```
